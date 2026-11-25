@@ -1,0 +1,7 @@
+Order Date,Region,Segment,Sales,Profit,Returned
+2026-01-04,East,Consumer,14520,3248,false
+2026-01-05,West,Enterprise,21340,4180,false
+2026-01-06,South,Small Business,9840,1205,true
+2026-01-07,North,Consumer,16310,2907,false
+2026-01-08,East,Enterprise,24880,5310,false
+2026-01-09,West,Small Business,11870,1875,true
